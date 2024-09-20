@@ -45,7 +45,7 @@ function App() {
           <div className="modal">
             <div className="heading">
               <img
-                src={"assets/images/icon-success-check.svg"}
+                src={"images/icon-success-check.svg"}
                 alt="check icon"
               />
               <p>Message Sent</p>
